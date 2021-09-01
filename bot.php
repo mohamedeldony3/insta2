@@ -35,7 +35,7 @@ try {
 				if($chatId == $id){
 					if($text == '/start'){
               $bot->sendphoto([ 'chat_id'=>$chatId,
-              'photo'=>"https://t.me/Ramo44/1245",
+              'photo'=>"https://t.me/yffhfhchhf/894",
                    'caption'=>'التفعيل بواسطة المطور رامـــــــو ~ @Ramo44 💻',
                   'inline_keyboard'=>true,
                   'reply_markup'=>json_encode([
