@@ -16,26 +16,26 @@
     },
 
     "channels": {
-      "channel1": "https://whatsapp.com/channel/",
-      "channel2": "https://whatsapp.com/channel/",
-      "channel3": "https://whatsapp.com/channel/",
-      "channel4": "https://t.me/"
+      "channel1": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "channel2": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "channel3": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "channel4": "https://t.me/T_O_Y_S"
     },
 
     "groups": {
-      "group1": "https://chat.whatsapp.com/",
-      "group2": "https://chat.whatsapp.com/",
-      "group3": "https://chat.whatsapp.com/",
-      "group4": "https://chat.whatsapp.com/",
-      "group5": "https://chat.whatsapp.com/",
-      "group6": "https://t.me/"
+      "group1": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group2": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group3": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group4": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group5": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group6": "https://t.me/T_O_Y_S"
     },
 
     "collaboration": {
-      "group1": "https://chat.whatsapp.com/",
-      "group2": "https://chat.whatsapp.com/",
-      "group3": "https://chat.whatsapp.com/",
-      "group4": "https://chat.whatsapp.com/"
+      "group1": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group2": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group3": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3",
+      "group4": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3"
     },
 
     "sponsors": {
@@ -48,7 +48,7 @@
     "others": {
       "assistance_num": "https://wa.me/message/201061419002",
       "yt_vid": "https://www.youtube.com/watch?v=Ko01Tc&t=71s",
-      "group_support": "https://chat.whatsapp.com/"
+      "group_support": "https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3"
     }
 
   }
